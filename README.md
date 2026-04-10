@@ -26,7 +26,7 @@ At its current stage, Lifeapp is a frontend application with core task managemen
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/lifeapp.git
+git clone https://github.com/AyushBajaj1/lifeapp.git
 cd lifeapp
 npm install
 npm run dev
