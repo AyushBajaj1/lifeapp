@@ -29,4 +29,4 @@ At its current stage, Lifeapp is a frontend application with core task managemen
 git clone https://github.com/AyushBajaj1/lifeapp.git
 cd lifeapp
 npm install
-npm run dev
+npm start
